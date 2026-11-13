@@ -2,7 +2,7 @@
   "global_notice": "স্বাগতম! সার্ভার এখন সচল আছে।",
   "maintenance_mode": false,
   "devices": {
-    "এখানে_পিসির_HWID_বসাবেন": {
+    "E0F9A023DA358C21": {
       "owner": "Client 1",
       "active": true,
       "expiry": "2026-12-31",
