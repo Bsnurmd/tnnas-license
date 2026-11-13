@@ -1,0 +1,12 @@
+{
+  "global_notice": "স্বাগতম! সার্ভার এখন সচল আছে।",
+  "maintenance_mode": false,
+  "devices": {
+    "এখানে_পিসির_HWID_বসাবেন": {
+      "owner": "Client 1",
+      "active": true,
+      "expiry": "2026-12-31",
+      "notice": "আপনার পিসির জন্য স্পেশাল নোটিশ!"
+    }
+  }
+}
