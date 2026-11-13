@@ -3,10 +3,10 @@
   "maintenance_mode": false,
   "devices": {
     "E0F9A023DA358C21": {
-      "owner": "Client 1",
+      "owner": "Admin PC",
       "active": true,
-      "expiry": "2026-12-31",
-      "notice": "আপনার পিসির জন্য স্পেশাল নোটিশ!"
+      "expiry": "2027-12-31",
+      "notice": "আপনার পিসির লাইসেন্স সফলভাবে অ্যাক্টিভ হয়েছে!"
     }
   }
 }
