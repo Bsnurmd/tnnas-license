@@ -3,16 +3,16 @@
   "maintenance_mode": false,
   "devices": {
     "E0F9A023DA358C21": {
-      "owner": "Admin PC",
+      "owner": "NUR MOHAMMAD",
       "active": true,
       "expiry": "2027-12-31",
       "notice": "আপনার পিসির লাইসেন্স সফলভাবে অ্যাক্টিভ হয়েছে!"
     },
     "C2154B4DECD630C7": {
-      "owner": "Client PC",
+      "owner": "Anawar",
       "active": true,
-      "expiry": "2026-11-18",
-      "notice": "আপনার পিসির লাইসেন্স সফলভাবে অ্যাক্টিভ হয়েছে!"
+      "expiry": "2026-11-20",
+      "notice": "আপনার পিসির 7 দিন ট্রায়াল লাইসেন্স সফলভাবে অ্যাক্টিভ হয়েছে!"
     },
     "F4F3EB7895442B84": {
       "owner": "Client PC",
